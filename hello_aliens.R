@@ -1,0 +1,1 @@
+cat("Hello Aliens! \nThis message is from planet Earth. What is your planet like? How would you describe your society and culture? Please spare us.")
